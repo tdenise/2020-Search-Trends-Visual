@@ -1,98 +1,86 @@
 export default [
     {
       "text": "coronavirus",
-      "value": "4600"
+      "value": "6000"
     },
     {
       "text": "kobe bryant",
-      "value": "3350"
+      "value": "6000"
     },
     {
       "text": "new zealand vs india",
-      "value": "2650"
+      "value": "2400"
     },
     {
       "text": "australian open",
-      "value": "2150"
+      "value": "2100"
     },
     {
-      "text": "ipl 2020",
-      "value": "1700"
+      "text": "india vs australia",
+      "value": "2050"
     },
     {
-      "text": "clima para amanhã",
-      "value": "1550"
+      "text": "india vs nz",
+      "value": "1250"
     },
     {
-      "text": "tiempo de mañana",
-      "value": "1450"
+      "text": "ind vs aus",
+      "value": "1200"
     },
     {
-      "text": "مدرستي",
-      "value": "1400"
-    },
-    {
-      "text": "prakerja",
-      "value": "1300"
-    },
-    {
-      "text": "tiempo mañana",
-      "value": "1150"
-    },
-    {
-      "text": "local guide program",
-      "value": "1050"
-    },
-    {
-      "text": "coronavirus france",
+      "text": "australian open 2020",
       "value": "1000"
     },
     {
-      "text": "weather tomorrow",
-      "value": "700"
+      "text": "iran",
+      "value": "900"
     },
     {
-      "text": "منصة مدرستي",
-      "value": "550"
+      "text": "sri lanka vs india",
+      "value": "1150"
     },
     {
-      "text": "zoom",
-      "value": "550"
+      "text": "world war 3",
+      "value": "600"
     },
     {
-      "text": "election results",
-      "value": "500"
-    },
-    {
-      "text": "eba",
-      "value": "500"
-    },
-    {
-      "text": "meteo di domani",
+      "text": "australia fires",
       "value": "400"
     },
     {
-      "text": "election",
-      "value": "350"
-    },
-    {
-      "text": "india vs new zealand",
+      "text": "nfl playoffs",
       "value": "300"
     },
     {
-      "text": "yarınki hava durumu",
+      "text": "copa del rey",
       "value": "250"
     },
     {
-      "text": "wetter morgen",
+      "text": "meghan markle",
       "value": "250"
     },
     {
-      "text": "погода завтра",
-      "value": "250"
+      "text": "son depremler",
+      "value": "200"
     },
     {
-      "text": "classroom",
-      "value": "160"
+      "text": "son dakika",
+      "value": "50"
+    },
+    {
+      "text": "son dakika",
+      "value": "50"
+    },
+    {
+      "text": "cricbuzz",
+      "value": "50"
+    },
+    {
+      "text": "cricket score",
+      "value": "50"
+    },
+    {
+      "text": "cnn",
+      "value": "50"
     }
    ]
