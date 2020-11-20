@@ -36,19 +36,29 @@ export function TestGraph() {
   };
 
   const styles = {
-    fontSize: 40,
-    marginTop: "40%",
+    fontSize: 15,
+    marginTop: "8%",
+    marginBottom: "8%"
+  };
 
+  const styles2 = {
+    fontSize: 15,
+    marginTop: "15%",
+    marginBottom: "8%"
   };
 
   return (
-    <Container fluid>
+    <Container>
       <Row>
-      <Col sm={3} style= {styles}>
-          <div>Overview 2020</div>
+        <Col md={4} style= {styles}>
+            <div>
+              <h2>Overview 2020</h2>
+              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
         </Col>
-        <Col xl={9}>
-          <div className="2020Words" style={styles}>
+        <Col></Col>
+        <Col md={6}>
+          <div className="2020Words" style={styles2}>
             <ReactWordcloud words={words} options={options} maxWords={max} />
           </div>
         </Col>
