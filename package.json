@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.2.2",
     "boostrap": "^2.0.0",
     "bootstrap": "^4.5.3",
+    "node": "^12.19.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
     "react-d3-cloud": "^0.7.0",
