@@ -4,7 +4,7 @@ import { Row, Col, Container, Jumbotron } from 'react-bootstrap';
 
 export function JumbotronSect() {
     return (
-        <Jumbotron class="jumbotron d-flex align-items-center">
+        <Jumbotron class="d-flex align-items-center jumbotron">
             <Container>
                 <Row>
                     <Col></Col>
