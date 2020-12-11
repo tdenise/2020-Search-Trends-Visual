@@ -1,6 +1,7 @@
 import React from 'react';
 import '../App.css';
 import { Row, Col, Container, Jumbotron } from 'react-bootstrap';
+
 export function JumbotronSect() {
     let styles = {
         marginTop: '9%',
@@ -12,9 +13,10 @@ export function JumbotronSect() {
                     <Col></Col>
                     <Col md={8}>
                         <div >
-                            <h1>Hello, world!</h1>
+                            <h1>Review of 2020</h1>
                             <p>
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                2020 has been an eventful year packed with a lifetime of events. Our group wanted to explore the year's top search trends for each month of the year using data visualization.
+                                The data is composed of search trends from the entire world, not just the United States. 
                             </p>
                         </div>
                     </Col>

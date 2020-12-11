@@ -53,7 +53,7 @@ export function JulGraph() {
         <Col md={4} style= {styles}>
             <div>
               <h2>July</h2>
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>July was a really unfortunate month. Haruma Miura and Naya Rivera passed away during this month. The England vs West Indies Cricket game, however, was a nice distraction for many during this month.</p>
             </div>
         </Col>
         <Col></Col>

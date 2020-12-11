@@ -53,7 +53,7 @@ export function AprGraph() {
         <Col md={4} style= {styles}>
             <div>
               <h2>April</h2>
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>Though there were still many changes due to COVID-19 it was relatively quiet due to many people self-quarantining and staying inside for the majority of April. In Brazil many searched for emergency aid due to job loss and the effects of the changing economy due to COVID. There was news that Kim Jong Un was in danger due to a surgery according to US Intelligence. </p>
             </div>
         </Col>
         <Col></Col>

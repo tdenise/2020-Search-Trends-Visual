@@ -53,7 +53,7 @@ export function JunGraph() {
         <Col md={4} style= {styles}>
             <div>
               <h2>June</h2>
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>June was not especially eventful. Many people searched for the Nagaland Lottery during this month. Nagaland is one of the 13 states in India to have the ability to legally host lotteries. </p>
             </div>
         </Col>
         <Col></Col>

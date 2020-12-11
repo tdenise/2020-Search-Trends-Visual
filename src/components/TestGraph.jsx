@@ -50,11 +50,11 @@ export function TestGraph() {
   return (
     <Container>
       <Row>
-        <Col md={4} style= {styles}>
-            <div>
-              <h2>Overview 2020</h2>
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </div>
+        <Col md={4} style={styles}>
+          <div>
+            <h2>Overview of 2020</h2>
+            <p>This year has been a complete shift from the year before. The spread of COVID-19 has changed how many industries work and what the social norm looks like. It has been the top search trend for the vast majority of 2020.</p>
+          </div>
         </Col>
         <Col></Col>
         <Col md={6}>
